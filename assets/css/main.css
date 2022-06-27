@@ -1,0 +1,120 @@
+ .uploadmultiple{
+	        line-height: 1.5;
+            color: #495057;
+            background-color: #fff;
+            background-clip: padding-box;
+            border: 1px solid #ced4da;
+            border-radius: 0.25rem;
+            padding:.375rem .75rem;
+	    }
+	    .tops{
+                margin-top:1rem!important;
+            }
+	    .buttons-copy{
+	        background-color:#d3563b;
+	        border-color: #d3563b;
+	    }
+	    .buttons-copy:hover{
+	        background-color:#d3563b;
+	        border-color: #d3563b;
+	    }
+	    .buttons-copy:focus{
+	        background-color:#d3563b;
+	        border-color: #d3563b;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220);
+	    }
+	    .buttons-copy:active{
+	        background-color:#d3563b!important;
+	        border-color: #d3563b!important;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220)!important;
+	    }
+	    
+	     .buttons-excel{
+	        background-color:#5d5fdf;
+	        border-color: #5d5fdf;
+	    }
+	    .buttons-excel:hover{
+	        background-color:#5d5fdf;
+	        border-color: #5d5fdf;
+	    }
+	    .buttons-excel:focus{
+	        background-color:#5d5fdf;
+	        border-color: #5d5fdf;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220);
+	    }
+	    .buttons-excel:active{
+	        background-color:#5d5fdf!important;
+	        border-color: #5d5fdf!important;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220)!important;
+	    }
+	    
+	     .buttons-pdf{
+	        background-color:#d2195c;
+	        border-color: #d2195c;
+	    }
+	    .buttons-pdf:hover{
+	        background-color:#d2195c;
+	        border-color: #d2195c;
+	    }
+	    .buttons-pdf:focus{
+	        background-color:#d2195c;
+	        border-color: #d2195c;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220);
+	    }
+	    .buttons-pdf:active{
+	        background-color:#d2195c!important;
+	        border-color: #d2195c!important;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220)!important;
+	    }
+	    .buttons-csv{
+	        background-color:#28ab7a;
+	        border-color: #28ab7a;
+	    }
+	    .buttons-csv:hover{
+	        background-color:#28ab7a;
+	        border-color: #28ab7a;
+	    }
+	    .buttons-csv:focus{
+	        background-color:#28ab7a;
+	        border-color: #28ab7a;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220);
+	    }
+	    .buttons-csv:active{
+	        background-color:#28ab7a!important;
+	        border-color: #28ab7a!important;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220)!important;
+	    }
+	    
+	     .buttons-print{
+	        background-color:#f72903;
+	        border-color: #f72903;
+	    }
+	    .buttons-print:hover{
+	        background-color:#f72903;
+	        border-color: #f72903;
+	    }
+	    .buttons-print:focus{
+	        background-color:#f72903;
+	        border-color: #f72903;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220);
+	    }
+	    .buttons-print:active{
+	        background-color:#f72903!important;
+	        border-color: #f72903!important;
+	        box-shadow: 0 0 0 0.2rem rgb(239 223 220)!important;
+	    }
+	    .btn-group>.btn-group:not(:last-child)>.btn, .btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+            margin-right: 5px;
+            border: none;
+        }
+        .page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #4e9ee8;
+    border-color: #4e9ee8;
+}
+        .btn-outline-primary {
+    color: white;
+    border-color: #4e9ee8;
+    background-color: #4e9ee8;
+}
